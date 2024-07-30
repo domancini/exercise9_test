@@ -3,3 +3,6 @@
 def greeting():
     print("hello")
     print("welcome to my repository")
+
+def goodbye():
+    print("goodbye!")
